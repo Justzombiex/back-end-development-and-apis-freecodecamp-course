@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brian Michel",
+	"description": "Project to validate knowledge in APIs and backend development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
